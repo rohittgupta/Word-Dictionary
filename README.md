@@ -1,1 +1,1 @@
-# Word-Dictionary
+# Word Lookup Dictionary
